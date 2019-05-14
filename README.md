@@ -1,2 +1,2 @@
 # diavgeia
-connect diavgeia.gov.gr, search for specific info and notify
+Use diavgeia.gov.gr api to search for specific info and notify user.
